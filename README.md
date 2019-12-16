@@ -5,7 +5,6 @@ Work with cassandra server and client in docker container.
    http://www.apache.org/dyn/closer.lua/cassandra/3.11.5/apache-cassandra-3.11.5-bin.tar.gz
    into your repo
    
-   Build the Dockerfile
    docker build -t cassandra . (. here refers to present working directory)
 
       OR
